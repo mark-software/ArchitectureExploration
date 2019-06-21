@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Architecture Playground</string>
+    <string name="home">Home</string>
+    <string name="mvvm">MVVM</string>
+    <string name="list">List</string>
+    <string name="mvi">MVI</string>
+    <string name="mvc">MVC</string>
+    <string name="server_error">Something went wrong</string>
+    <string name="name_pw_empty">Email or password is empty!</string>
+    <string name="success">Success!</string>
+    <string name="mvp">MVP</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in">Log In</string>
+
+    <string name="test_email">eve.holt@reqres.in</string>
+    <string name="test_pw">cityslicka</string>
+</resources>
